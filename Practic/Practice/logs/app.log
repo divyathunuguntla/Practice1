@@ -1,0 +1,3 @@
+[ERROR] 2025-02-16 00:32:47.122 [main] Log4jexample - It's an error message
+[INFO ] 2025-02-16 00:32:47.126 [main] Log4jexample - It's an information message
+[FATAL] 2025-02-16 00:32:47.127 [main] Log4jexample - It's a fatal message
