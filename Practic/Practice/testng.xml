@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
   <classes>
-  <class name="LaunchBrowserTESTNG"></class>
+  <class name="Test.BookSearch"></class>
   </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

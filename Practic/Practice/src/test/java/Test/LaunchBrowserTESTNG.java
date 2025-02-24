@@ -20,8 +20,8 @@ public class LaunchBrowserTESTNG {
 		driver.manage().window().maximize();
 		//File file = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
 		//FileUtils.copyFile(file, new File("./image.png"));
-		WebElement ele = driver.findElement(By.cssSelector(".logo-desktop"));
-		File file = ele.getScreenshotAs(OutputType.FILE);
+		//WebElement ele = driver.findElement(By.cssSelector(".logo-desktop"));
+		/*File file = ele.getScreenshotAs(OutputType.FILE);
 		try {
 			FileUtils.copyFile(file, new File( "./image4.jpg"));
 		} catch (IOException e) {

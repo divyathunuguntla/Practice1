@@ -2,17 +2,16 @@ package Test;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.Test;
 
 import Pages.CrossWordHomePage;
 
 public class BookSearch {
-	static WebDriver driver;
-	public static void main(String[] args) {
-		search();
-	}
+	
+	@Test
 	public static void search()
 	{
-		driver = new ChromeDriver();		
+		WebDriver driver = new ChromeDriver();		
 		CrossWordHomePage obj = new CrossWordHomePage(driver);
 		driver.get("https://www.crossword.in/");
 		driver.manage().window().maximize();
