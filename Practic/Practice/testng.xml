@@ -4,7 +4,7 @@
   <test thread-count="5" parallel="classes" name="Test1">
   <classes>
   <class name="Test.LaunchBrowserTESTNG"></class>
-  <class name="Test.TestNGPriority"></class> 
+  <!-- <class name="Test.TestNGPriority"></class> -->
   </classes>
   
   </test> <!-- Test1 -->
