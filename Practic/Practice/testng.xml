@@ -3,7 +3,7 @@
 <suite parallel="classes" name="Suite1">
   <test thread-count="5" parallel="classes" name="Test1">
   <classes>
-  <class name="Test.LaunchBrowserTESTNG"/>
+  <class name="Test.LaunchBrowserTESTNG"></class>
   <class name="Test.TestNGPriority"></class> 
   </classes>
   
