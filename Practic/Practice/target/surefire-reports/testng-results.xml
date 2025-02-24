@@ -2,27 +2,27 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-02-23T23:53:35 IST" name="Surefire suite" finished-at="2025-02-23T23:53:35 IST" duration-ms="84">
+  <suite started-at="2025-02-24T11:54:09 IST" name="Surefire suite" finished-at="2025-02-24T11:54:09 IST" duration-ms="152">
     <groups>
     </groups>
-    <test started-at="2025-02-23T23:53:35 IST" name="Surefire test" finished-at="2025-02-23T23:53:35 IST" duration-ms="84">
+    <test started-at="2025-02-24T11:54:09 IST" name="Surefire test" finished-at="2025-02-24T11:54:09 IST" duration-ms="152">
       <class name="Test.TestNGPriority">
-        <test-method signature="test2()[pri:1, instance:Test.TestNGPriority@6ac13091]" started-at="2025-02-23T23:53:35 IST" name="test2" finished-at="2025-02-23T23:53:35 IST" duration-ms="0" status="PASS">
+        <test-method signature="test2()[pri:1, instance:Test.TestNGPriority@6ac13091]" started-at="2025-02-24T11:54:09 IST" name="test2" finished-at="2025-02-24T11:54:09 IST" duration-ms="14" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test2 -->
-        <test-method signature="test1()[pri:2, instance:Test.TestNGPriority@6ac13091]" started-at="2025-02-23T23:53:35 IST" name="test1" finished-at="2025-02-23T23:53:35 IST" duration-ms="1" status="PASS">
+        <test-method signature="test1()[pri:2, instance:Test.TestNGPriority@6ac13091]" started-at="2025-02-24T11:54:09 IST" name="test1" finished-at="2025-02-24T11:54:09 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method signature="test3()[pri:4, instance:Test.TestNGPriority@6ac13091]" started-at="2025-02-23T23:53:35 IST" name="test3" finished-at="2025-02-23T23:53:35 IST" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- test3 -->
-        <test-method signature="test4()[pri:3, instance:Test.TestNGPriority@6ac13091]" started-at="2025-02-23T23:53:35 IST" name="test4" finished-at="2025-02-23T23:53:35 IST" duration-ms="0" status="PASS">
+        <test-method signature="test4()[pri:3, instance:Test.TestNGPriority@6ac13091]" started-at="2025-02-24T11:54:09 IST" name="test4" finished-at="2025-02-24T11:54:09 IST" duration-ms="4" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test4 -->
+        <test-method signature="test3()[pri:4, instance:Test.TestNGPriority@6ac13091]" started-at="2025-02-24T11:54:09 IST" name="test3" finished-at="2025-02-24T11:54:09 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
       </class> <!-- Test.TestNGPriority -->
     </test> <!-- Surefire test -->
   </suite> <!-- Surefire suite -->
